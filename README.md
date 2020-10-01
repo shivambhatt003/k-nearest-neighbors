@@ -4,7 +4,7 @@ Implementation of KNN algorithm in Python 3
 
 ## Description
 
-* K-Nearest-Neighbors algorithm is used for classification and regression problems.
+* K-Nearest-Neighbors algorithm is used for classification and regression problems which are subsets of supervised learning.
 * In this project, it is used for classification.
 * The Iris data set is bundled for test, however you are free to use any data set of your choice provided that it follows the specified format. 
 
